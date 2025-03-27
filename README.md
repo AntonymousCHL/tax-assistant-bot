@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 ### Prerequisites
 
-Ensure you have **Node.js** and **npm** installed. You can check your versions by running the following commands in your terminal:
+Ensure you have **Node.js** and **npm** installed.
 
 1. Get API keys from OpenAI (and Anthropic if you would like to upload pdfs).
 2. Put those keys in the `.env` file.
